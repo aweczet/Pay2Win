@@ -17,10 +17,10 @@ Projekt zaliczeniowy na przedmiot: Grafika i Wizualizacja
         - [x] ~~Przeniesienie modelu wraz z tekturą z Blendera do Unity~~
         - [x] ~~Napisnie skryptu pozwalającego na zebranie monety~~
         - [x] ~~Dodanie GUI pokazującego ilość zebranych monet~~
-    - [ ] Zakup klucza (po zebraniu wystarczającej liczby monet)
-        - [ ] Napisanie skryptu pozwalającego wymienić monety na klucz
-        - [ ] Napisanie skryptu pozwalającego na dialog z duchem
-    - [ ] Zakończenie gry jest możliwe tylko gdy gracz ma klucz
-        - [ ] Napisanie warunku pozwalającego zakończyć grę (wygrywając ją) tylko w przypadku gdy gracz posiada klucz
+    - [x] ~~Zakup klucza (po zebraniu wystarczającej liczby monet)~~
+        - [x] ~~Napisanie skryptu pozwalającego wymienić monety na klucz~~
+        - [x] ~~Napisanie skryptu pozwalającego na dialog z duchem~~
+    - [x] ~~Zakończenie gry jest możliwe tylko gdy gracz ma klucz~~
+        - [x] ~~Napisanie warunku pozwalającego zakończyć grę (wygrywając ją) tylko w przypadku gdy gracz posiada klucz~~
 
 Font: https://www.dafont.com/halloween-too.font
