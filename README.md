@@ -24,4 +24,6 @@ Projekt zaliczeniowy na przedmiot: Grafika i Wizualizacja
         - [x] ~~Napisanie warunku pozwalającego zakończyć grę (wygrywając ją) tylko w przypadku gdy gracz posiada klucz~~
 
 Wszystkie modele i tekstury, które nie były załączone w tutorialu zostały wykonane przeze mnie.\
-Font: https://www.dafont.com/halloween-too.font
+Font: https://www.dafont.com/halloween-too.font \
+Klucz: https://www.vectorstock.com/royalty-free-vector/gold-key-vector-2043515
+Dźwięk zbierania monety: https://www.fesliyanstudios.com/royalty-free-sound-effects-download/coin-272
