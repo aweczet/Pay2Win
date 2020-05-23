@@ -13,7 +13,7 @@ Projekt zaliczeniowy na przedmiot: Grafika i Wizualizacja
     - [x] Build, Run, Distribute
 - Dodatkowe funkcjonalności:
     - [ ] Zbieranie monet
-        - [ ] Wykonanie modelu monety
+        - [x] Wykonanie modelu monety
         - [ ] Przeniesienie modelu wraz z tekturą z Blendera do Unity
         - [ ] Napisnie skryptu pozwalającego na zebranie monety
         - [ ] Dodanie GUI pokazującego ilość zebranych monet
