@@ -14,10 +14,12 @@ Projekt zaliczeniowy na przedmiot: Grafika i Wizualizacja
 - Dodatkowe funkcjonalności:
     - [ ] Zbieranie monet
         - [x] ~~Wykonanie modelu monety~~
-        - [ ] Przeniesienie modelu wraz z tekturą z Blendera do Unity
-        - [ ] Napisnie skryptu pozwalającego na zebranie monety
+        - [x] Przeniesienie modelu wraz z tekturą z Blendera do Unity
+        - [x] Napisnie skryptu pozwalającego na zebranie monety
         - [ ] Dodanie GUI pokazującego ilość zebranych monet
     - [ ] Zakup klucza (po zebraniu wystarczającej liczby monet)
         - [ ] Napisanie skryptu pozwalającego wymienić monety na klucz
     - [ ] Zakończenie gry jest możliwe tylko gdy gracz ma klucz
         - [ ] Napisanie skryptu pozwalającego zakończyć grę (wygrywając ją) tylko w przypadku gdy gracz posiada klucz
+
+Font: https://www.dafont.com/halloween-too.font
