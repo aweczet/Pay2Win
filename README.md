@@ -1,4 +1,4 @@
-# Pay2Win
+# Pay2Win - Albert Jendrzejczak 44350
 Projekt zaliczeniowy na przedmiot: Grafika i Wizualizacja
 - Punkty z tutoriala:
     - [x] ~~Setting up 3D Beginner~~
@@ -23,4 +23,5 @@ Projekt zaliczeniowy na przedmiot: Grafika i Wizualizacja
     - [x] ~~Zakończenie gry jest możliwe tylko gdy gracz ma klucz~~
         - [x] ~~Napisanie warunku pozwalającego zakończyć grę (wygrywając ją) tylko w przypadku gdy gracz posiada klucz~~
 
+Wszystkie modele i tekstury, które nie były załączone w tutorialu zostały wykonane przeze mnie.\
 Font: https://www.dafont.com/halloween-too.font
