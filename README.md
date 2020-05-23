@@ -14,4 +14,4 @@ Projekt zaliczeniowy na przedmiot: Grafika i Wizualizacja
 - Dodatkowe funkcjonalności:
     - Zbieranie monet
     - Zakup klucza (po zebraniu wystarczającej liczby monet)
-    - Zakończenie gry jest możliwe tylko gdy gracz ma klucz` 
+    - Zakończenie gry jest możliwe tylko gdy gracz ma klucz
